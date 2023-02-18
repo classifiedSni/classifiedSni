@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @classifiedSni
+- 👋 Hi, I’m @Siddharth
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Hasnt decided yet!!
